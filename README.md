@@ -8,4 +8,17 @@ O dataset foi retirado do kaggle que pode ser acessado [aqui](https://www.kaggle
 
 Para ser mais fácil a leitura, os vão ser lançado em tópicos e vai se atualizando de acordo com o vai sendo feito
 
-### An
+### Análise Exploratória
+
+Clique no tópico para acessar
+
+- [Análise Inicial](https://github.com/gustavoramos82/Classificando-Fake-News-/blob/main/Textos/An%C3%A1lise%20Inicial.md)
+
+
+
+
+
+
+
+
+
