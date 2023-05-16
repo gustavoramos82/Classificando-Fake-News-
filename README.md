@@ -4,4 +4,8 @@ Neste projeto será aplicado um modelo de deep learning para classificar se um t
 
 O dataset foi retirado do kaggle que pode ser acessado [aqui](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv)
 
+## Tópicos
 
+Para ser mais fácil a leitura, os vão ser lançado em tópicos e vai se atualizando de acordo com o vai sendo feito
+
+### An
