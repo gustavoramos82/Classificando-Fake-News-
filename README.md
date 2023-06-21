@@ -8,6 +8,8 @@ A partir disso, o tratamento dos dados seguiu a estutura medallion, no qual pode
 - **Prata**: Tratamento inicial do dataset
 - **Ouro**: Versão final que será utilizado para a modelagem ou para o dashboard
 
+Se quiser mais informações sobre, clique [aqui](https://learn.microsoft.com/pt-br/azure/databricks/lakehouse/medallion)
+
 ## Tópicos
 
 Para ser mais fácil a leitura, os vão ser lançado em tópicos e vai se atualizando de acordo com o vai sendo feito
