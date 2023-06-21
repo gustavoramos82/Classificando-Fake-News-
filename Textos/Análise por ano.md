@@ -41,3 +41,17 @@ do Twitter.
 Além dos termos envolvendo Trump, temos termos envolvendo school, e outros termos como gun e shooter, ou seja podem ter notícias envolvendo
 algum ataque a uma escola, coisa que precisa ser visto com mais detalhes, e aparecem termos envolvendo a escola com teacher e student.
 
+## Nuvem de palavras da noticias verdadeiras
+
+### 2016
+
+![image](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/c153716a-f7d3-48f3-92e8-b32addda34b4)
+
+Vemos aqui que Trump aparece com mais destaque, mas vemos os termos como obama e clinton aparecendo com um certo destaque além de termos relacionado a politica como republican, democrat, white hous, suprem cort e podemos ver termos como puerto rico.
+
+### 2017
+
+![image](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/506dc3d3-32d9-4787-b7b0-47f3253cf5ff)
+
+Observa-se que se tem um contexto mais geopolitico, trump aparece como termo principal, mas aparece termos referentes a outros
+países como Russia, China e Coreia do Norte, sendo que Russia e Coreia do Norte aparece com mais destaque.
