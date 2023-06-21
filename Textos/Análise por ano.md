@@ -2,14 +2,13 @@
 
 Nesta etapa da análise foi separado as noiticias, tanto as verdadeiras quanto as falsas, e se filtrou por ano para saber quais 
 seriam os principais termos que apareciam na nuvem de palavras.
-Sendo que, por quantidade de notícias, temos mais no período de 2016 e 2017, tanto das noticias verdadeiras ou não, como mostrado
-nos gráficos abaixo
+Sendo que, por quantidade de notícias, que as noticias verdadeira tem no periodo de 2016 e 2017, sendo que tem muito mais noticias no periodo de 2017 e fake news, temos noticias do periodo de 2015 a 2018, sendo que se tem mais noticias do periodo de 2016 e 2017, como pode ser visto nos gráficos abaixo
 
-![image](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/45e41501-5c71-44eb-a599-eb5866906d21)
+![image](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/72968bb4-fece-4df2-b009-2e0527b78d0b)
 
 ![image](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/ce8ac5cc-452b-4064-9f09-8b923e3d0764)
 
-## Nuvem de Palavras das noticias verdadeiras
+## Nuvem de Palavras das noticias falsas
 
 ### 2015
 
