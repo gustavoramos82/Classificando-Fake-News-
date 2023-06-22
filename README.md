@@ -12,6 +12,13 @@ Se quiser mais informações sobre, clique [aqui](https://learn.microsoft.com/pt
 
 ## Tópicos
 
+Temos dois arquivos, um com as noticias verdadeiras e outras com as falsas, nas quais tem-se os seguintes atributos:
+
+- **title**: Título da noticia
+- **texto**: texto da noticias
+- **subject**: Tópico do que se trata a noticia
+- **date**: data de publicação
+
 Para ser mais fácil a leitura, os vão ser lançado em tópicos e vai se atualizando de acordo com o vai sendo feito
 
 ### Análise Exploratória
