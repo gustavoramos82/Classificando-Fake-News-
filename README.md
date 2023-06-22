@@ -24,6 +24,7 @@ Clique no tópico para acessar
 - Análise de Cluster
   - Titulo da Noticia
       - [noticicas verdadeiras](https://github.com/gustavoramos82/Classificando-Fake-News-/blob/main/Textos/An%C3%A1lise%20de%20cluster%20noticias%20verdadeiras%20(titulo).md)
+      - [noticias falsas](https://github.com/gustavoramos82/Classificando-Fake-News-/blob/main/Textos/Analise%20de%20cluster%20noticias%20falsas%20(titulo).md)
 
 
 ## Extras
