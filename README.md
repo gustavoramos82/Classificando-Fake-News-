@@ -38,8 +38,9 @@ Clique no tópico para acessar
 
 Se quiser saber mais sobre o que foi tratado ao longo do que foi feito, esses seguintes tópicos pode ser interessante para se pesquisar
 
-- **Método do Cotovelo**: acesse essa página [aqui](https://medium.com/pizzadedados/kmeans-e-metodo-do-cotovelo-94ded9fdf3a9)
-- **Índice Callinski-Harasbazs**: acesse essa página [aqui](https://acervolima.com/indice-calinski-harabasz-indices-de-validade-de-cluster-conjunto-3/)
+- **Método do Cotovelo**: acesse a página [aqui](https://medium.com/pizzadedados/kmeans-e-metodo-do-cotovelo-94ded9fdf3a9)
+- **Índice Callinski-Harasbazs**: acesse a página [aqui](https://acervolima.com/indice-calinski-harabasz-indices-de-validade-de-cluster-conjunto-3/)
+- **K-means**: acesse a página [aqui](https://medium.com/programadores-ajudando-programadores/k-means-o-que-%C3%A9-como-funciona-aplica%C3%A7%C3%B5es-e-exemplo-em-python-6021df6e2572)
 
 
 
