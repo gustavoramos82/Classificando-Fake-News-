@@ -39,6 +39,23 @@ Clique no tópico para acessar
     - [noticias verdadeiras](https://github.com/gustavoramos82/Classificando-Fake-News-/blob/main/Textos/An%C3%A1lise%20de%20clusters%20das%20noticias%20verdadeiras%20(subject).md)
     - [noticias falsas](https://github.com/gustavoramos82/Classificando-Fake-News-/blob/main/Textos/An%C3%A1lise%20de%20cluster%20das%20noticias%20falsas%20(subject).md)
 
+### Pré-processamneto
+
+Além de um pré-processamento feito anteriormente para a pasta prata que foi a remoção de stopwords e lematização, agora vai ser feita os seguintes tratamentos:
+
+- selecionar as noticias dos anos de 2016 e 2017
+
+pois eesse anos tem termos da época e é a maior parte das noticias
+
+- inserindo a label nos dataframes
+- juntar os dataframes
+
+Pois veio em dois dataframes diferentes e tem que juntar para fazer a modelagem
+
+- selecionar o campo titulo e label
+
+Pois são apenas esses campos que vão ser utilizados na modelagem
+
 ## Extras
 
 Se quiser saber mais sobre o que foi tratado ao longo do que foi feito, esses seguintes tópicos pode ser interessante para se pesquisar
