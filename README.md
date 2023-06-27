@@ -56,14 +56,23 @@ Pois veio em dois dataframes diferentes e tem que juntar para fazer a modelagem
 
 Pois são apenas esses campos que vão ser utilizados na modelagem
 
+### Modelagem
+
+A modelagem vai ser feito primeiro utilizando os modelo de machine learning e usando os modelos como *baseline*, em seguida será feita a modelagem de redes neurais, sendo aplicado uma rede neural do zero e outro a partir de uma rede neural já existente e retreina-lo
+
+- [modelo baseline](https://github.com/gustavoramos82/Classificando-Fake-News-/blob/main/Textos/Modelagem%20com%20algoritmos%20de%20machine%20learning.md)
+- Rede neural contruído do zero (🚧em construção🚧)
+- Rede neural pré-treinada (🚧em construção🚧)
+
 ## Extras
 
-Se quiser saber mais sobre o que foi tratado ao longo do que foi feito, esses seguintes tópicos pode ser interessante para se pesquisar
+Se quiser saber mais, esses seguintes tópicos pode ser interessante para se pesquisar
 
 - **Método do Cotovelo**: acesse a página [aqui](https://medium.com/pizzadedados/kmeans-e-metodo-do-cotovelo-94ded9fdf3a9)
 - **Índice Callinski-Harasbazs**: acesse a página [aqui](https://acervolima.com/indice-calinski-harabasz-indices-de-validade-de-cluster-conjunto-3/)
 - **K-means**: acesse a página [aqui](https://medium.com/programadores-ajudando-programadores/k-means-o-que-%C3%A9-como-funciona-aplica%C3%A7%C3%B5es-e-exemplo-em-python-6021df6e2572)
 - **Redução de Dimensionaliddade**: acesse a página [aqui](https://ealexbarros.medium.com/o-que-%C3%A9-a-redu%C3%A7%C3%A3o-de-dimensionalidade-em-machine-learning-cc2a89e3cdec)
+- **Métricas de classificação**: acesse a página [aqui](https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198)
 
 
 
