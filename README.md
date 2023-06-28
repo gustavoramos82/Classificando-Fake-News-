@@ -60,9 +60,23 @@ Pois são apenas esses campos que vão ser utilizados na modelagem
 
 A modelagem vai ser feito primeiro utilizando os modelo de machine learning e usando os modelos como *baseline*, em seguida será feita a modelagem de redes neurais, sendo aplicado uma rede neural do zero e outro a partir de uma rede neural já existente e retreina-lo
 
-- [modelo baseline](https://github.com/gustavoramos82/Classificando-Fake-News-/blob/main/Textos/Modelagem%20com%20algoritmos%20de%20machine%20learning.md)
-- Rede neural contruído do zero (🚧em construção🚧)
-- Rede neural pré-treinada (🚧em construção🚧)
+### Modelo baseline
+
+Clique [aqui](https://github.com/gustavoramos82/Classificando-Fake-News-/blob/main/Textos/Modelagem%20com%20algoritmos%20de%20machine%20learning.md) para saber mais
+
+### Rede neural contruído do zero 
+Foi construidio uma rede neural em que foi feito no seguinte esquema:
+![image](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/0c7d67d2-5b4a-42ea-905b-40c0d8139344)
+
+No qual se obteve as seguintes métricas
+
+  - **Acuracia**: 0.9445626735687256
+  - **Precisão**: 0.9325443506240845
+  - **Recall**: 0.9553831219673157
+  - **F1-score**: 0.9438255928860508
+
+#### Rede neural pré-treinada
+(🚧em construção🚧)
 
 ## Extras
 
