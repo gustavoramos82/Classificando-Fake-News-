@@ -66,14 +66,15 @@ Clique [aqui](https://github.com/gustavoramos82/Classificando-Fake-News-/blob/ma
 
 ### Rede neural contruído do zero 
 Foi construidio uma rede neural em que foi feito no seguinte esquema:
-![image](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/0c7d67d2-5b4a-42ea-905b-40c0d8139344)
+![image](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/793acd25-62b2-4ffa-9470-69b922977bdb)
+
 
 No qual se obteve as seguintes métricas
 
-  - **Acuracia**: 0.9445626735687256
-  - **Precisão**: 0.9325443506240845
-  - **Recall**: 0.9553831219673157
-  - **F1-score**: 0.9438255928860508
+  - **Acuracia**: 0.9460992813110352
+  - **Precisão**: 0.945361852645874
+  - **Recall**: 0.9439864158630371
+  - **F1-score**: 0.944673633598654
 
 #### Rede neural pré-treinada
 (🚧em construção🚧)
