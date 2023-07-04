@@ -12,6 +12,10 @@ Se quiser mais informações sobre, clique [aqui](https://learn.microsoft.com/pt
 
 Este trabalho do repositório é resultado de um trabalho, se quiser ler um resumo do tema leia o arquivo do notion [aqui](https://flint-texture-e2f.notion.site/Apresenta-o-de-Redes-Neurais-09020a6725774682b206dd4d089b7232?pvs=4)
 
+O projeto seguiu o seguinte fluxograma que é como vai estar organizado nos tópicos, que será mostrado na imagem abaixo
+
+![Fluxograma do Projeto](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/231f690a-17de-4846-95f5-3fec9ec08702)
+
 ## Tópicos
 
 Temos dois arquivos, um com as noticias verdadeiras e outras com as falsas, nas quais tem-se os seguintes atributos:
