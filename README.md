@@ -14,7 +14,8 @@ Este trabalho do repositório é resultado de um trabalho, se quiser ler um resu
 
 O projeto seguiu o seguinte fluxograma que é como vai estar organizado nos tópicos, que será mostrado na imagem abaixo
 
-![Fluxograma do Projeto](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/231f690a-17de-4846-95f5-3fec9ec08702)
+![Fluxograma do Projeto2](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/106df216-3afd-432d-a873-1ad5ac036ff2)
+
 
 ## Tópicos
 
@@ -80,8 +81,15 @@ No qual se obteve as seguintes métricas
   - **Recall**: 0.9439864158630371
   - **F1-score**: 0.944673633598654
 
-#### Rede neural pré-treinada
-(🚧em construção🚧)
+## Avaliação
+
+Podemos ver que, comparando as métricas, que as redes neurais teve um desempenho melhor, mas se comparado como o Extra tree 
+classifier, então dependo da situação, poderia mais preferência de um e do outro, por exemplo, se for levar em consideração
+os custos, o Extra tree seria considerado, pois não usa gpu para treinamento, entretanto, se quiser levar a perfomace em consideração, poderia usar a rede neural, logo poderia haver certas mudanças para ver se o desempenho ser melhor,como:
+
+- Usar o método embbeding para vetorizar o texto
+- Testar outros tipos de arquiteturas (como rede RNN e CNN)
+- Usar redes pré-treinadas como BERT e RoBerta (não consegui fazer isso neste projeto, pois é um projeto muito demorado)
 
 ## Extras
 
