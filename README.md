@@ -69,7 +69,7 @@ A modelagem vai ser feito primeiro utilizando os modelo de machine learning e us
 
 Clique [aqui](https://github.com/gustavoramos82/Classificando-Fake-News-/blob/main/Textos/Modelagem%20com%20algoritmos%20de%20machine%20learning.md) para saber mais
 
-### Rede neural contruído do zero 
+### Rede neural MLP (Multi Layer Percepton)
 Foi construidio uma rede neural em que foi feito no seguinte esquema:
 ![image](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/793acd25-62b2-4ffa-9470-69b922977bdb)
 
@@ -81,14 +81,26 @@ No qual se obteve as seguintes métricas
   - **Recall**: 0.9439864158630371
   - **F1-score**: 0.944673633598654
 
+###  Rede Neural Recorrente (RNN)
+Foi construidio uma rede neural RNN em que foi feito no seguinte esquema:
+![image](https://github.com/gustavoramos82/Classificando-Fake-News-/assets/39843884/c46a7877-83a5-4b84-89c2-c2ca5bb3066b)
+
+No qual se teve as seguintes méricas
+
+  - **Acuracia**: 0.9522458910942078
+  - **Precisão**: 0.9503632187843323
+  - **Recall**:  0.951745867729187
+  - **F1-score**: 0.9510540407308745
+
+
 ## Avaliação
 
 Podemos ver que, comparando as métricas, que as redes neurais teve um desempenho melhor, mas se comparado como o Extra tree 
 classifier, então dependo da situação, poderia mais preferência de um e do outro, por exemplo, se for levar em consideração
-os custos, o Extra tree seria considerado, pois não usa gpu para treinamento, entretanto, se quiser levar a perfomace em consideração, poderia usar a rede neural, logo poderia haver certas mudanças para ver se o desempenho ser melhor,como:
+os custos, o Extra tree seria considerado, pois não usa gpu para treinamento, entretanto, se quiser levar a perfomace em consideração, poderia usar a rede neural RNN, que foi o melhor nas métricas, logo poderia haver certas mudanças para ver se o desempenho ser melhor,como:
 
 - Usar o método embbeding para vetorizar o texto
-- Testar outros tipos de arquiteturas (como rede RNN e CNN)
+- Testar outros tipos de arquiteturas (CNN, ou testar outros tipos de RNN, que se mostrou melhor)
 - Usar redes pré-treinadas como BERT e RoBerta (não consegui fazer isso neste projeto, pois é um projeto muito demorado)
 
 ## Extras
@@ -101,6 +113,7 @@ Se quiser saber mais, esses seguintes tópicos pode ser interessante para se pes
 - **Redução de Dimensionaliddade**: acesse a página [aqui](https://ealexbarros.medium.com/o-que-%C3%A9-a-redu%C3%A7%C3%A3o-de-dimensionalidade-em-machine-learning-cc2a89e3cdec)
 - **Métricas de classificação**: acesse a página [aqui](https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198)
 - **Base onde fiz de base para cirar o modelo de rede neural**: acesse a página [aqui](https://realpython.com/python-keras-text-classification/#convolutional-neural-networks-cnn)
+- Rede neural RNN: acesse a página [aqui](https://medium.com/@web2ajax/redes-neurais-recorrentes-lstm-b90b720dc3f6)
 
 
 
