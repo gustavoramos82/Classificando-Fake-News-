@@ -113,7 +113,7 @@ Se quiser saber mais, esses seguintes tópicos pode ser interessante para se pes
 - **Redução de Dimensionaliddade**: acesse a página [aqui](https://ealexbarros.medium.com/o-que-%C3%A9-a-redu%C3%A7%C3%A3o-de-dimensionalidade-em-machine-learning-cc2a89e3cdec)
 - **Métricas de classificação**: acesse a página [aqui](https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198)
 - **Base onde fiz de base para cirar o modelo de rede neural**: acesse a página [aqui](https://realpython.com/python-keras-text-classification/#convolutional-neural-networks-cnn)
-- Rede neural RNN: acesse a página [aqui](https://medium.com/@web2ajax/redes-neurais-recorrentes-lstm-b90b720dc3f6)
+- **Rede neural RNN**: acesse a página [aqui](https://medium.com/@web2ajax/redes-neurais-recorrentes-lstm-b90b720dc3f6)
 
 
 
