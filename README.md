@@ -95,13 +95,28 @@ No qual se teve as seguintes méricas
 
 ## Avaliação
 
-Podemos ver que, comparando as métricas, que as redes neurais teve um desempenho melhor, mas se comparado como o Extra tree 
-classifier, então dependo da situação, poderia mais preferência de um e do outro, por exemplo, se for levar em consideração
-os custos, o Extra tree seria considerado, pois não usa gpu para treinamento, entretanto, se quiser levar a perfomace em consideração, poderia usar a rede neural RNN, que foi o melhor nas métricas, logo poderia haver certas mudanças para ver se o desempenho ser melhor,como:
+Podemos ver que, comparando as métricas no que pode ser visto abaixo na tabela
 
-- Usar o método embbeding para vetorizar o texto
+|  | Extra tree| MLP| RNN|
+|---|---|---|---|
+|Acurácia|0.9421985815602837|0.9460992813110352|0.9522458910942078|
+|Precisão|0.9464505035617784|0.945361852645874|0.9503632187843323|
+|Recall|0.9342870999030067|0.9439864158630371|0.951745867729187|
+|F1-score|0.9403294691885296|0.944673633598654|0.9510540407308745|
+
+As redes neurais teve um desempenho melhor, sobretudo as redes RNN, mas se comparado como o Extra tree 
+classifier, dependo da situação, poderia mais preferência de um e do outro, por exemplo, se for levar em consideração
+os custos, o Extra tree seria considerado, pois não usa gpu para treinamento, entretanto, se quiser levar as métricas em consideração, poderia usar a rede neural RNN, que foi o melhor nas métricas, logo poderia haver certas mudanças para ver se o desempenho ser melhor,como:
+
+- Usar o método embbeding para vetorizar o texto como word2vec
 - Testar outros tipos de arquiteturas (CNN, ou testar outros tipos de RNN, que se mostrou melhor)
-- Usar redes pré-treinadas como BERT e RoBerta (não consegui fazer isso neste projeto, pois é um processo muito demorado)
+- Usar redes pré-treinadas como BERT e RoBerta (não consegui fazer isso neste projeto, pois não consegui fazer isso para esse projeto)
+
+Então poderia fazer esses três caminhosde acordo com o modelo
+
+- Se quiser não tem um custo muito alto de produto e não usar gpu, o **Extra Tree** deve ser levar em consideração
+- No caso do uso da gpu, então o uso de uma **rede neural RNN** seria melhor já que teoricamente é a mais indicada para este tipo de problema
+- Usar uma rede pré-treinada
 
 ## Extras
 
